@@ -1,0 +1,12 @@
+{
+	"demo": {
+		"greeting": "",
+		"paragraph": "",
+		"text": "",
+		"title": ""
+	},
+	"icu": {
+		"pluralization": "",
+		"select": ""
+	}
+}
